@@ -33,34 +33,36 @@
       }
     ],
     "softSkills": [
-      "Aprendizado contínuo",
-      "Comunicação clara e objetiva",
+      "Antipatia",
+      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Foco em resultados"
+      "Organização"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (Básico)"
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)",
+    "Italiano (iniciante)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/rafxys/js-developer-pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/rafxys/js-developer-portfolio",
+      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Sem experiências profissionais",
-      "period": "2025 - até o momento",
-      "description": "Trabalhar com profissionais excepcionais e participar da construção de inovações de mercado será uma experiência enriquecedora."
+      "name": "Arquiteto de software / S3 BANK",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     }
   ]
 }
